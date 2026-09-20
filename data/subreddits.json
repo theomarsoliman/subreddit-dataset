@@ -1,5 +1,5 @@
 {
-  "generated": "",
+  "generated": "2026-09-19",
   "count": 144,
   "source": "https://peeklens.ai?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset",
   "licence": "CC BY 4.0",
@@ -8,7 +8,7 @@
       "subreddit": "ChatGPT",
       "url": "https://reddit.com/r/ChatGPT",
       "weekly_active_users": 1862369,
-      "description": "",
+      "description": "Subreddit to discuss ChatGPT and AI. Not affiliated with OpenAI. Thanks, Nat!",
       "posts_analyzed": 31,
       "grid_coverage_pct": 17,
       "confidence": "low",
@@ -54,14 +54,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/ChatGPT?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "ClaudeAI",
       "url": "https://reddit.com/r/ClaudeAI",
       "weekly_active_users": 1569379,
-      "description": "",
+      "description": "This is a Claude and Claude Code discussion subreddit to help you make a fully informed decision about using Claude and Claude Code to best effect for your own purposes.\u2000\u00b9\u2309\u2009Anthropic does not control",
       "posts_analyzed": 15,
       "grid_coverage_pct": 8,
       "confidence": "low",
@@ -107,14 +107,14 @@
           "sample_posts": 2
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/ClaudeAI?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "sysadmin",
       "url": "https://reddit.com/r/sysadmin",
       "weekly_active_users": 907213,
-      "description": "",
+      "description": "A reddit dedicated to the profession of Computer System Administration.",
       "posts_analyzed": 63,
       "grid_coverage_pct": 26,
       "confidence": "normal",
@@ -160,14 +160,14 @@
           "sample_posts": 2
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/sysadmin?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "LocalLLaMA",
       "url": "https://reddit.com/r/LocalLLaMA",
       "weekly_active_users": 859630,
-      "description": "",
+      "description": "Subreddit to discuss locally hostable AI. Hi Angelos!",
       "posts_analyzed": 55,
       "grid_coverage_pct": 29,
       "confidence": "normal",
@@ -213,14 +213,14 @@
           "sample_posts": 2
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/LocalLLaMA?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "OpenAI",
       "url": "https://reddit.com/r/OpenAI",
       "weekly_active_users": 642541,
-      "description": "",
+      "description": "OpenAI is an AI research and deployment company. OpenAI's mission is to create safe and powerful AI that benefits all of humanity. We are an unofficially-run community. OpenAI makes Sora, ChatGPT, and",
       "posts_analyzed": 52,
       "grid_coverage_pct": 27,
       "confidence": "normal",
@@ -266,14 +266,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/OpenAI?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "selfhosted",
       "url": "https://reddit.com/r/selfhosted",
       "weekly_active_users": 601701,
-      "description": "",
+      "description": "A place to share, discuss, discover, assist with, gain assistance for, and critique self-hosted alternatives to our favorite web apps, web services, and online tools.",
       "posts_analyzed": 49,
       "grid_coverage_pct": 23,
       "confidence": "low",
@@ -319,14 +319,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/selfhosted?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "cscareerquestions",
       "url": "https://reddit.com/r/cscareerquestions",
       "weekly_active_users": 595994,
-      "description": "",
+      "description": "CSCareerQuestions is a community for  those who  are in  the process of entering or are already part of the computer science field. Our goal is to help navigate and share challenges of the industry an",
       "posts_analyzed": 67,
       "grid_coverage_pct": 30,
       "confidence": "normal",
@@ -372,14 +372,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/cscareerquestions?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "homelab",
       "url": "https://reddit.com/r/homelab",
       "weekly_active_users": 574942,
-      "description": "",
+      "description": "Welcome to your friendly /r/homelab, where techies and sysadmin from everywhere are welcome to share their labs, projects, builds, etc.",
       "posts_analyzed": 54,
       "grid_coverage_pct": 27,
       "confidence": "normal",
@@ -425,14 +425,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/homelab?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "Accounting",
       "url": "https://reddit.com/r/Accounting",
       "weekly_active_users": 396310,
-      "description": "",
+      "description": "Primarily for accountants and aspiring accountants to learn about and discuss their career choice. Advice and questions welcome.",
       "posts_analyzed": 79,
       "grid_coverage_pct": 36,
       "confidence": "normal",
@@ -478,14 +478,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/Accounting?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "webdev",
       "url": "https://reddit.com/r/webdev",
       "weekly_active_users": 382161,
-      "description": "",
+      "description": "A community dedicated to all things web development: both front-end and back-end. For more design-related questions, try /r/web_design.",
       "posts_analyzed": 60,
       "grid_coverage_pct": 29,
       "confidence": "normal",
@@ -531,14 +531,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/webdev?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "SideProject",
       "url": "https://reddit.com/r/SideProject",
       "weekly_active_users": 333785,
-      "description": "",
+      "description": "r/SideProject is a subreddit for sharing and receiving constructive feedback on side projects.",
       "posts_analyzed": 56,
       "grid_coverage_pct": 28,
       "confidence": "normal",
@@ -584,14 +584,14 @@
           "sample_posts": 2
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-16",
       "analysis_url": "https://peeklens.ai/subreddit/SideProject?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "software",
       "url": "https://reddit.com/r/software",
       "weekly_active_users": 331765,
-      "description": "",
+      "description": "Anything software-related. Please follow our rules to avoid getting punished.",
       "posts_analyzed": 77,
       "grid_coverage_pct": 32,
       "confidence": "normal",
@@ -637,14 +637,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/software?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "cybersecurity",
       "url": "https://reddit.com/r/cybersecurity",
       "weekly_active_users": 327704,
-      "description": "",
+      "description": "This subreddit is for discussing cybersecurity topics, research, and emergent threats/findings.",
       "posts_analyzed": 77,
       "grid_coverage_pct": 37,
       "confidence": "normal",
@@ -690,14 +690,14 @@
           "sample_posts": 3
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/cybersecurity?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "smallbusiness",
       "url": "https://reddit.com/r/smallbusiness",
       "weekly_active_users": 323580,
-      "description": "",
+      "description": "This sub is not for advertisements! Questions and answers about starting, owning, and growing a small business only.",
       "posts_analyzed": 91,
       "grid_coverage_pct": 40,
       "confidence": "normal",
@@ -743,14 +743,14 @@
           "sample_posts": 2
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-16",
       "analysis_url": "https://peeklens.ai/subreddit/smallbusiness?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "Entrepreneur",
       "url": "https://reddit.com/r/Entrepreneur",
       "weekly_active_users": 266998,
-      "description": "",
+      "description": "Our community brings together individuals driven by a shared commitment to problem-solving, professional networking, and collaborative innovation, all with the goal of making a positive impact. We wel",
       "posts_analyzed": 74,
       "grid_coverage_pct": 30,
       "confidence": "normal",
@@ -796,14 +796,14 @@
           "sample_posts": 2
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-16",
       "analysis_url": "https://peeklens.ai/subreddit/Entrepreneur?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "AI_Agents",
       "url": "https://reddit.com/r/AI_Agents",
       "weekly_active_users": 264421,
-      "description": "",
+      "description": "A place for discussion around the use of AI Agents and related tools. AI Agents are LLMs that have the ability to \"use tools\" or \"execute functions\" in an autonomous or semi-autonomous (also known as",
       "posts_analyzed": 70,
       "grid_coverage_pct": 32,
       "confidence": "normal",
@@ -849,14 +849,14 @@
           "sample_posts": 3
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/AI_Agents?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "artificial",
       "url": "https://reddit.com/r/artificial",
       "weekly_active_users": 258714,
-      "description": "",
+      "description": "Reddit\u2019s home for Artificial Intelligence (AI)",
       "posts_analyzed": 70,
       "grid_coverage_pct": 35,
       "confidence": "normal",
@@ -902,14 +902,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/artificial?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "digitalnomad",
       "url": "https://reddit.com/r/digitalnomad",
       "weekly_active_users": 251755,
-      "description": "",
+      "description": "Digital Nomads are individuals that leverage technology in order to work remotely and live an independent and nomadic lifestyle.",
       "posts_analyzed": 85,
       "grid_coverage_pct": 40,
       "confidence": "normal",
@@ -955,14 +955,14 @@
           "sample_posts": 2
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/digitalnomad?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "SaaS",
       "url": "https://reddit.com/r/SaaS",
       "weekly_active_users": 241191,
-      "description": "",
+      "description": "Discussions and useful links for SaaS owners, online business owners, and more.",
       "posts_analyzed": 55,
       "grid_coverage_pct": 27,
       "confidence": "normal",
@@ -1008,14 +1008,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/SaaS?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "graphic_design",
       "url": "https://reddit.com/r/graphic_design",
       "weekly_active_users": 235106,
-      "description": "",
+      "description": "A collaborative learning community for graphic designers at any stage, focused on education, mentorship, and mutual support.",
       "posts_analyzed": 59,
       "grid_coverage_pct": 29,
       "confidence": "normal",
@@ -1061,14 +1061,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/graphic_design?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "ExperiencedDevs",
       "url": "https://reddit.com/r/ExperiencedDevs",
       "weekly_active_users": 214439,
-      "description": "",
+      "description": "For experienced developers. This community should be specialized subreddit facilitating discussion amongst individuals who have gained some ground in the software engineering world.   Any posts or com",
       "posts_analyzed": 71,
       "grid_coverage_pct": 34,
       "confidence": "normal",
@@ -1114,14 +1114,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/ExperiencedDevs?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "programming",
       "url": "https://reddit.com/r/programming",
       "weekly_active_users": 209017,
-      "description": "",
+      "description": "Computer Programming",
       "posts_analyzed": 83,
       "grid_coverage_pct": 37,
       "confidence": "normal",
@@ -1167,14 +1167,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/programming?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "sales",
       "url": "https://reddit.com/r/sales",
       "weekly_active_users": 199261,
-      "description": "",
+      "description": "Everything you need to know about sales, selling, business development, lead generation, prospecting, closing and more!    Recommended books are linked in the menu and sidebar. Read our rules before p",
       "posts_analyzed": 80,
       "grid_coverage_pct": 37,
       "confidence": "normal",
@@ -1220,14 +1220,14 @@
           "sample_posts": 2
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/sales?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "rust",
       "url": "https://reddit.com/r/rust",
       "weekly_active_users": 142438,
-      "description": "",
+      "description": "A place for all things related to the Rust programming language\u2014an open-source systems language that emphasizes performance, reliability, and productivity.",
       "posts_analyzed": 81,
       "grid_coverage_pct": 36,
       "confidence": "normal",
@@ -1273,14 +1273,14 @@
           "sample_posts": 2
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/rust?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "PromptEngineering",
       "url": "https://reddit.com/r/PromptEngineering",
       "weekly_active_users": 139287,
-      "description": "",
+      "description": "Prompt engineering is the application of engineering practices to the development of prompts - i.e., inputs into generative models like GPT or Midjourney.",
       "posts_analyzed": 67,
       "grid_coverage_pct": 32,
       "confidence": "normal",
@@ -1326,14 +1326,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-18",
       "analysis_url": "https://peeklens.ai/subreddit/PromptEngineering?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "remotework",
       "url": "https://reddit.com/r/remotework",
       "weekly_active_users": 134790,
-      "description": "",
+      "description": "A place to discuss remote work.   Not a job board.",
       "posts_analyzed": 61,
       "grid_coverage_pct": 30,
       "confidence": "normal",
@@ -1379,7 +1379,7 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/remotework?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
@@ -1432,14 +1432,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/devops?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "consulting",
       "url": "https://reddit.com/r/consulting",
       "weekly_active_users": 121766,
-      "description": "",
+      "description": "A community for consultants across industries.",
       "posts_analyzed": 90,
       "grid_coverage_pct": 39,
       "confidence": "normal",
@@ -1485,14 +1485,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/consulting?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "MachineLearning",
       "url": "https://reddit.com/r/MachineLearning",
       "weekly_active_users": 119294,
-      "description": "",
+      "description": "Beginners -> /r/mlquestions or /r/learnmachinelearning , AGI -> /r/singularity, career advices -> /r/cscareerquestions, datasets -> r/datasets",
       "posts_analyzed": 85,
       "grid_coverage_pct": 40,
       "confidence": "normal",
@@ -1538,14 +1538,14 @@
           "sample_posts": 3
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/MachineLearning?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "dataengineering",
       "url": "https://reddit.com/r/dataengineering",
       "weekly_active_users": 115807,
-      "description": "",
+      "description": "News & discussion on Data Engineering topics, including but not limited to: data pipelines, databases, data formats, storage, data modeling, data governance, cleansing, NoSQL, distributed systems, str",
       "posts_analyzed": 86,
       "grid_coverage_pct": 41,
       "confidence": "normal",
@@ -1591,14 +1591,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/dataengineering?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "Python",
       "url": "https://reddit.com/r/Python",
       "weekly_active_users": 109066,
-      "description": "",
+      "description": "The largest Python community for Reddit! Stay up to date with the latest news, packages, and meta information relating to the Python programming language.  ---  If you have questions or are new to Pyt",
       "posts_analyzed": 84,
       "grid_coverage_pct": 38,
       "confidence": "normal",
@@ -1644,14 +1644,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/Python?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "startups",
       "url": "https://reddit.com/r/startups",
       "weekly_active_users": 108045,
-      "description": "",
+      "description": "Welcome to /r/startups, the place to discuss startup problems and solutions. Startups are companies that are designed to grow and scale rapidly.  Be sure to read and follow all of our rules--we have s",
       "posts_analyzed": 80,
       "grid_coverage_pct": 38,
       "confidence": "normal",
@@ -1697,14 +1697,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/startups?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "aws",
       "url": "https://reddit.com/r/aws",
       "weekly_active_users": 103383,
-      "description": "",
+      "description": "News, articles and tools covering Amazon Web Services (AWS), including S3, EC2, SQS, RDS, DynamoDB, IAM, CloudFormation, AWS-CDK, Route 53, CloudFront, Lambda, VPC, Cloudwatch, Glacier and more.",
       "posts_analyzed": 92,
       "grid_coverage_pct": 44,
       "confidence": "normal",
@@ -1750,14 +1750,14 @@
           "sample_posts": 2
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/aws?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "opensource",
       "url": "https://reddit.com/r/opensource",
       "weekly_active_users": 98143,
-      "description": "",
+      "description": "A subreddit for everything open source related (for this context, we go off the definition of open source here http://en.wikipedia.org/wiki/Open_source)",
       "posts_analyzed": 84,
       "grid_coverage_pct": 42,
       "confidence": "normal",
@@ -1803,14 +1803,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/opensource?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "socialmedia",
       "url": "https://reddit.com/r/socialmedia",
       "weekly_active_users": 96327,
-      "description": "",
+      "description": "A sub for professional discussion about social media, news, and best practices.",
       "posts_analyzed": 94,
       "grid_coverage_pct": 43,
       "confidence": "normal",
@@ -1856,14 +1856,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/socialmedia?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "dotnet",
       "url": "https://reddit.com/r/dotnet",
       "weekly_active_users": 95571,
-      "description": "",
+      "description": ".NET Community, if you are using C#, VB.NET, F#, or anything  running with .NET... you are at the right place!",
       "posts_analyzed": 85,
       "grid_coverage_pct": 39,
       "confidence": "normal",
@@ -1909,14 +1909,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/dotnet?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "UXDesign",
       "url": "https://reddit.com/r/UXDesign",
       "weekly_active_users": 94650,
-      "description": "",
+      "description": "r/UXDesign is for people working in UX to discuss research and design problems, career advancement, and the profession. Questions about finding a job and portfolio reviews will be redirected to our we",
       "posts_analyzed": 77,
       "grid_coverage_pct": 32,
       "confidence": "normal",
@@ -1962,14 +1962,14 @@
           "sample_posts": 2
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/UXDesign?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "golang",
       "url": "https://reddit.com/r/golang",
       "weekly_active_users": 90318,
-      "description": "",
+      "description": "Ask questions and post articles about the Go programming language and related tools, events etc.",
       "posts_analyzed": 85,
       "grid_coverage_pct": 39,
       "confidence": "normal",
@@ -2015,14 +2015,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/golang?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "Wordpress",
       "url": "https://reddit.com/r/Wordpress",
       "weekly_active_users": 90271,
-      "description": "",
+      "description": "The place for news, articles and discussion regarding WordPress, the open source software. Wordpress.com-related questions should be posted to https://wordpress.com/forums/.",
       "posts_analyzed": 83,
       "grid_coverage_pct": 40,
       "confidence": "normal",
@@ -2068,14 +2068,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/Wordpress?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "datascience",
       "url": "https://reddit.com/r/datascience",
       "weekly_active_users": 89879,
-      "description": "",
+      "description": "A space for data science professionals to engage in discussions and debates on the subject of data science.",
       "posts_analyzed": 93,
       "grid_coverage_pct": 37,
       "confidence": "normal",
@@ -2121,14 +2121,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/datascience?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "humanresources",
       "url": "https://reddit.com/r/humanresources",
       "weekly_active_users": 79093,
-      "description": "",
+      "description": "A subreddit for Human Resources professionals: come here to seek career advice, ask questions and get feedback from peers within the HR Community around the world whether you're brand new to HR or a s",
       "posts_analyzed": 91,
       "grid_coverage_pct": 40,
       "confidence": "normal",
@@ -2174,14 +2174,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/humanresources?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "ProductManagement",
       "url": "https://reddit.com/r/ProductManagement",
       "weekly_active_users": 77652,
-      "description": "",
+      "description": "Product Management",
       "posts_analyzed": 80,
       "grid_coverage_pct": 36,
       "confidence": "normal",
@@ -2227,14 +2227,14 @@
           "sample_posts": 2
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/ProductManagement?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "reactjs",
       "url": "https://reddit.com/r/reactjs",
       "weekly_active_users": 71478,
-      "description": "",
+      "description": "A community for discussing anything related to the React UI framework and its ecosystem.  Join the Reactiflux Discord (reactiflux.com) for additional React discussion and help.",
       "posts_analyzed": 94,
       "grid_coverage_pct": 38,
       "confidence": "normal",
@@ -2280,14 +2280,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/reactjs?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "LLMDevs",
       "url": "https://reddit.com/r/LLMDevs",
       "weekly_active_users": 68502,
-      "description": "",
+      "description": "A space for Enthusiasts, Developers and Researchers to discuss LLMs and their applications.",
       "posts_analyzed": 92,
       "grid_coverage_pct": 41,
       "confidence": "normal",
@@ -2333,14 +2333,14 @@
           "sample_posts": 2
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/LLMDevs?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "marketing",
       "url": "https://reddit.com/r/marketing",
       "weekly_active_users": 64550,
-      "description": "",
+      "description": "For marketing communications + advertising industry professionals to discuss and ask questions related to marketing strategy, media planning, digital, social, search, campaigns, data science, email, u",
       "posts_analyzed": 92,
       "grid_coverage_pct": 42,
       "confidence": "normal",
@@ -2386,14 +2386,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/marketing?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "WorkOnline",
       "url": "https://reddit.com/r/WorkOnline",
       "weekly_active_users": 64499,
-      "description": "",
+      "description": "A place to talk about making an income online.  This includes random jobs, online employers, sites that pay you and ways to monetize websites.  These are sites and strategies that will yield the user",
       "posts_analyzed": 94,
       "grid_coverage_pct": 40,
       "confidence": "normal",
@@ -2439,14 +2439,14 @@
           "sample_posts": 2
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/WorkOnline?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "docker",
       "url": "https://reddit.com/r/docker",
       "weekly_active_users": 62766,
-      "description": "",
+      "description": "Docker is an open-source project to easily create lightweight, portable, self-sufficient containers from any application. The same container that a developer builds and tests on a laptop can run at sc",
       "posts_analyzed": 96,
       "grid_coverage_pct": 40,
       "confidence": "normal",
@@ -2492,14 +2492,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/docker?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "SocialMediaMarketing",
       "url": "https://reddit.com/r/SocialMediaMarketing",
       "weekly_active_users": 62187,
-      "description": "",
+      "description": "r/SocialMediaMarketing is a place for SMM professionals to share industry-relevant information, discuss best practices, and provide constructive critique.",
       "posts_analyzed": 93,
       "grid_coverage_pct": 39,
       "confidence": "normal",
@@ -2545,14 +2545,14 @@
           "sample_posts": 2
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/SocialMediaMarketing?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "shopify",
       "url": "https://reddit.com/r/shopify",
       "weekly_active_users": 61730,
-      "description": "",
+      "description": "This subreddit is a forum to ask or seek any information regarding Shopify.   Store owners can discuss any Shopify-specific issues.  Note that this is a promotion-free sub and the rules (please read t",
       "posts_analyzed": 86,
       "grid_coverage_pct": 39,
       "confidence": "normal",
@@ -2598,14 +2598,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/shopify?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "kubernetes",
       "url": "https://reddit.com/r/kubernetes",
       "weekly_active_users": 59742,
-      "description": "",
+      "description": "Kubernetes discussions, news, support, and link sharing.",
       "posts_analyzed": 82,
       "grid_coverage_pct": 38,
       "confidence": "normal",
@@ -2651,14 +2651,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/kubernetes?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "SEO",
       "url": "https://reddit.com/r/SEO",
       "weekly_active_users": 58782,
-      "description": "",
+      "description": "The leading authority on all things SEO: AI SEO, GEO, LLM SEO, Technical SEO, Content SEO and SEO Architecture. Bring your ideas, problems, thoughts, questions, issues and we'll work it out together.",
       "posts_analyzed": 85,
       "grid_coverage_pct": 36,
       "confidence": "normal",
@@ -2704,14 +2704,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/SEO?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "ecommerce",
       "url": "https://reddit.com/r/ecommerce",
       "weekly_active_users": 57454,
-      "description": "",
+      "description": "A community dedicated to the design and implementation of eCommerce sites. For seasoned retailers or newcomers to the industry, this is the perfect place to seek guidance and discuss all aspects of se",
       "posts_analyzed": 94,
       "grid_coverage_pct": 43,
       "confidence": "normal",
@@ -2757,14 +2757,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/ecommerce?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "node",
       "url": "https://reddit.com/r/node",
       "weekly_active_users": 56537,
-      "description": "",
+      "description": "Unofficial Node.js subreddit. Discuss Node.js, JavaScript, TypeScript, and anything else in the Node.js ecosystem!",
       "posts_analyzed": 93,
       "grid_coverage_pct": 43,
       "confidence": "normal",
@@ -2810,14 +2810,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/node?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "recruiting",
       "url": "https://reddit.com/r/recruiting",
       "weekly_active_users": 53762,
-      "description": "",
+      "description": "Welcome, Recruiting & Talent Acquisition Professionals! Industry discussion space - Recruiters only. No candidates, ads, or research.  **User Flairs are mandatory for all posts**",
       "posts_analyzed": 93,
       "grid_coverage_pct": 40,
       "confidence": "normal",
@@ -2863,14 +2863,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/recruiting?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "softwarearchitecture",
       "url": "https://reddit.com/r/softwarearchitecture",
       "weekly_active_users": 53636,
-      "description": "",
+      "description": "Dive into discussions on designing, structuring, and optimizing software systems. Share insights on architectural patterns, best practices, and real-world experiences.",
       "posts_analyzed": 89,
       "grid_coverage_pct": 41,
       "confidence": "normal",
@@ -2916,14 +2916,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/softwarearchitecture?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "buildinpublic",
       "url": "https://reddit.com/r/buildinpublic",
       "weekly_active_users": 53633,
-      "description": "",
+      "description": "A community for creators, developers, entrepreneurs, and makers to openly share their journey as they build projects in public. Whether you're coding, designing, writing, or launching a business, this",
       "posts_analyzed": 82,
       "grid_coverage_pct": 36,
       "confidence": "normal",
@@ -2969,14 +2969,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-16",
       "analysis_url": "https://peeklens.ai/subreddit/buildinpublic?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "influencermarketing",
       "url": "https://reddit.com/r/influencermarketing",
       "weekly_active_users": 52815,
-      "description": "",
+      "description": "Share popular threads and discussions around influencer marketing. Learn how to work with popular social media creators and bloggers to promote your brand.",
       "posts_analyzed": 91,
       "grid_coverage_pct": 41,
       "confidence": "normal",
@@ -3022,14 +3022,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-18",
       "analysis_url": "https://peeklens.ai/subreddit/influencermarketing?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "web_design",
       "url": "https://reddit.com/r/web_design",
       "weekly_active_users": 52117,
-      "description": "",
+      "description": "Web Design",
       "posts_analyzed": 89,
       "grid_coverage_pct": 38,
       "confidence": "normal",
@@ -3075,14 +3075,14 @@
           "sample_posts": 2
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/web_design?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "micro_saas",
       "url": "https://reddit.com/r/micro_saas",
       "weekly_active_users": 51714,
-      "description": "",
+      "description": "What is Micro SaaS?    Is virtually a pocket-sized SaaS, meaning that it caters to a very specific niche. It\u2019s usually run by a small team or even two or three people. And since it\u2019s targeting a much",
       "posts_analyzed": 68,
       "grid_coverage_pct": 32,
       "confidence": "normal",
@@ -3128,14 +3128,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/micro_saas?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "analytics",
       "url": "https://reddit.com/r/analytics",
       "weekly_active_users": 51352,
-      "description": "",
+      "description": "Dedicated to web analytics, data and business analytics. We're here to discuss analysis of data, learning of skills and implementation of web analytics.",
       "posts_analyzed": 93,
       "grid_coverage_pct": 40,
       "confidence": "normal",
@@ -3181,14 +3181,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/analytics?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "advertising",
       "url": "https://reddit.com/r/advertising",
       "weekly_active_users": 51164,
-      "description": "",
+      "description": "THIS IS NOT A PLACE TO ADVERTISE. YOU WILL BE BANNED.    r/Advertising: Is for ad creators, students, copywriters, and anyone else who is finely honing their reverse banner blindness for professional",
       "posts_analyzed": 94,
       "grid_coverage_pct": 39,
       "confidence": "normal",
@@ -3234,14 +3234,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/advertising?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "Upwork",
       "url": "https://reddit.com/r/Upwork",
       "weekly_active_users": 51019,
-      "description": "",
+      "description": "r/upwork is an independent, unofficial subreddit. We are not affiliated with, endorsed by, or employed by Upwork, Inc.",
       "posts_analyzed": 86,
       "grid_coverage_pct": 39,
       "confidence": "normal",
@@ -3287,14 +3287,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/Upwork?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "projectmanagement",
       "url": "https://reddit.com/r/projectmanagement",
       "weekly_active_users": 48255,
-      "description": "",
+      "description": "This is a safe and open environment dedicated to the promotion of project management methodologies, with the purpose of fostering and promoting free discussion about all things project management.  Ch",
       "posts_analyzed": 88,
       "grid_coverage_pct": 38,
       "confidence": "normal",
@@ -3340,14 +3340,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/projectmanagement?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "nextjs",
       "url": "https://reddit.com/r/nextjs",
       "weekly_active_users": 47580,
-      "description": "",
+      "description": "Next.js is a React framework for building full-stack web applications",
       "posts_analyzed": 90,
       "grid_coverage_pct": 42,
       "confidence": "normal",
@@ -3393,14 +3393,14 @@
           "sample_posts": 2
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/nextjs?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "PPC",
       "url": "https://reddit.com/r/PPC",
       "weekly_active_users": 46372,
-      "description": "",
+      "description": "The hub for Pay-per-Click (PPC) and performance advertising. Discuss strategy, scaling, and tactics across Google Ads, Meta Ads, Microsoft Ads, Amazon Ads, emerging AI networks, and similar ad platfor",
       "posts_analyzed": 94,
       "grid_coverage_pct": 42,
       "confidence": "normal",
@@ -3446,14 +3446,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/PPC?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "automation",
       "url": "https://reddit.com/r/automation",
       "weekly_active_users": 45192,
-      "description": "",
+      "description": "Are you fascinated by the wonders of automation, mesmerized by the power of ChatGPT, or intrigued by the endless possibilities of Artificial Intelligence and automation? Look no further! Our vibrant R",
       "posts_analyzed": 89,
       "grid_coverage_pct": 38,
       "confidence": "normal",
@@ -3499,14 +3499,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/automation?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "techsales",
       "url": "https://reddit.com/r/techsales",
       "weekly_active_users": 42929,
-      "description": "",
+      "description": "A community for Tech Sales Professionals. Including Advice, Hiring, Humor, OTEs & Tips from the Tech Sales world. See TechSalesJobs.org for jobs.",
       "posts_analyzed": 93,
       "grid_coverage_pct": 40,
       "confidence": "normal",
@@ -3552,14 +3552,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/techsales?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "java",
       "url": "https://reddit.com/r/java",
       "weekly_active_users": 42780,
-      "description": "",
+      "description": "News, Technical discussions, research papers and assorted things of interest related to the Java programming language NO programming help, NO learning Java related questions, NO installing or download",
       "posts_analyzed": 95,
       "grid_coverage_pct": 39,
       "confidence": "normal",
@@ -3605,14 +3605,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/java?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "googlecloud",
       "url": "https://reddit.com/r/googlecloud",
       "weekly_active_users": 40399,
-      "description": "",
+      "description": "The goto subreddit for Google Cloud Platform developers and enthusiasts.",
       "posts_analyzed": 86,
       "grid_coverage_pct": 39,
       "confidence": "normal",
@@ -3658,14 +3658,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/googlecloud?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "EntrepreneurRideAlong",
       "url": "https://reddit.com/r/EntrepreneurRideAlong",
       "weekly_active_users": 38209,
-      "description": "",
+      "description": "Follow real founders in real time. No gurus, no hindsight. Just the raw, unfiltered journey of starting and scaling companies from idea to execution. Whether you\u2019re building in public or watching from",
       "posts_analyzed": 81,
       "grid_coverage_pct": 36,
       "confidence": "normal",
@@ -3711,14 +3711,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/EntrepreneurRideAlong?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "AskMarketing",
       "url": "https://reddit.com/r/AskMarketing",
       "weekly_active_users": 36653,
-      "description": "",
+      "description": "Have a question about marketing? This is your place to ask.",
       "posts_analyzed": 95,
       "grid_coverage_pct": 43,
       "confidence": "normal",
@@ -3764,14 +3764,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/AskMarketing?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "ycombinator",
       "url": "https://reddit.com/r/ycombinator",
       "weekly_active_users": 35894,
-      "description": "",
+      "description": "News and discussion around startups and applying to Y Combinator.  In 2005, Y Combinator created a new model for funding early stage startups. We invest $500,000 in every startup and work intensively",
       "posts_analyzed": 90,
       "grid_coverage_pct": 41,
       "confidence": "normal",
@@ -3817,14 +3817,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-16",
       "analysis_url": "https://peeklens.ai/subreddit/ycombinator?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "webhosting",
       "url": "https://reddit.com/r/webhosting",
       "weekly_active_users": 31317,
-      "description": "",
+      "description": "This is a place to discuss everything related to web and cloud hosting. From shared hosting to bare metal servers, and everything in between. Post reviews of your current and past hosts, post question",
       "posts_analyzed": 100,
       "grid_coverage_pct": 42,
       "confidence": "normal",
@@ -3870,14 +3870,14 @@
           "sample_posts": 2
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/webhosting?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "PostgreSQL",
       "url": "https://reddit.com/r/PostgreSQL",
       "weekly_active_users": 31095,
-      "description": "",
+      "description": "The home of People, Postgres, Data on the Front Page of the Internet. Join us for lively discussion about PostgreSQL and related technologies. Help us build the community, the people and the technolog",
       "posts_analyzed": 90,
       "grid_coverage_pct": 39,
       "confidence": "normal",
@@ -3923,14 +3923,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/PostgreSQL?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "forhire",
       "url": "https://reddit.com/r/forhire",
       "weekly_active_users": 31026,
-      "description": "",
+      "description": "Some redditors are skilled professionals, some redditors need skilled professionals.    Scroll down for general information and our rules. Please read through these carefully, as breaking them can be",
       "posts_analyzed": 96,
       "grid_coverage_pct": 43,
       "confidence": "normal",
@@ -3976,14 +3976,14 @@
           "sample_posts": 2
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/forhire?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "javascript",
       "url": "https://reddit.com/r/javascript",
       "weekly_active_users": 30519,
-      "description": "",
+      "description": "Chat about javascript and javascript related projects. Yes, typescript counts. Please keep self promotion to a minimum/reasonable level.",
       "posts_analyzed": 92,
       "grid_coverage_pct": 39,
       "confidence": "normal",
@@ -4029,14 +4029,14 @@
           "sample_posts": 3
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/javascript?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "UI_Design",
       "url": "https://reddit.com/r/UI_Design",
       "weekly_active_users": 28494,
-      "description": "",
+      "description": "User Interface Design (UI Design) focuses on creating clear, accessible, visually consistent digital interfaces through layout, typography, and interaction patterns. This subreddit also covers UX and",
       "posts_analyzed": 93,
       "grid_coverage_pct": 38,
       "confidence": "normal",
@@ -4082,14 +4082,14 @@
           "sample_posts": 3
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/UI_Design?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "Startup_Ideas",
       "url": "https://reddit.com/r/Startup_Ideas",
       "weekly_active_users": 26109,
-      "description": "",
+      "description": "This subreddit is for sharing innovative startup ideas. Links and discussion about startups and descriptions of startups are welcome! Share ideas. Improve ideas. Expand upon other ideas. Combine ideas",
       "posts_analyzed": 79,
       "grid_coverage_pct": 36,
       "confidence": "normal",
@@ -4135,14 +4135,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-18",
       "analysis_url": "https://peeklens.ai/subreddit/Startup_Ideas?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "microsaas",
       "url": "https://reddit.com/r/microsaas",
       "weekly_active_users": 25701,
-      "description": "",
+      "description": "A place to change your life with micro SaaS apps",
       "posts_analyzed": 83,
       "grid_coverage_pct": 39,
       "confidence": "normal",
@@ -4188,14 +4188,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/microsaas?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "freelance",
       "url": "https://reddit.com/r/freelance",
       "weekly_active_users": 22709,
-      "description": "",
+      "description": "Articles of interest for freelancers and people who want to become one. Violating the rules (https://old.reddit.com/r/freelance/about/rules) will cause your post/comment will be removed and you will b",
       "posts_analyzed": 98,
       "grid_coverage_pct": 47,
       "confidence": "normal",
@@ -4241,14 +4241,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/freelance?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "netsec",
       "url": "https://reddit.com/r/netsec",
       "weekly_active_users": 22641,
-      "description": "",
+      "description": "/r/netsec is a community-curated aggregator of technical information security content. Our mission is to extract signal from the noise \u2014 to provide value to security practitioners, students, researche",
       "posts_analyzed": 94,
       "grid_coverage_pct": 42,
       "confidence": "normal",
@@ -4294,14 +4294,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/netsec?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "digital_marketing",
       "url": "https://reddit.com/r/digital_marketing",
       "weekly_active_users": 22025,
-      "description": "",
+      "description": "For digital marketing news, best practices, strategy, and learning.",
       "posts_analyzed": 96,
       "grid_coverage_pct": 39,
       "confidence": "normal",
@@ -4347,14 +4347,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-16",
       "analysis_url": "https://peeklens.ai/subreddit/digital_marketing?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "webdesign",
       "url": "https://reddit.com/r/webdesign",
       "weekly_active_users": 21383,
-      "description": "",
+      "description": "A community dedicated to webdesign.",
       "posts_analyzed": 90,
       "grid_coverage_pct": 40,
       "confidence": "normal",
@@ -4400,14 +4400,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-18",
       "analysis_url": "https://peeklens.ai/subreddit/webdesign?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "Business_Ideas",
       "url": "https://reddit.com/r/Business_Ideas",
       "weekly_active_users": 21269,
-      "description": "",
+      "description": "Share and explore innovative business ideas, gain insights on initiating your venture, unravel the intricacies of 'Cost of Sale' (CoS), and decode the essentials of taxation \u2013 your nexus for entrepren",
       "posts_analyzed": 90,
       "grid_coverage_pct": 42,
       "confidence": "normal",
@@ -4453,14 +4453,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-16",
       "analysis_url": "https://peeklens.ai/subreddit/Business_Ideas?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "rails",
       "url": "https://reddit.com/r/rails",
       "weekly_active_users": 20465,
-      "description": "",
+      "description": "A subreddit for discussion and news about Ruby on Rails",
       "posts_analyzed": 92,
       "grid_coverage_pct": 39,
       "confidence": "normal",
@@ -4506,14 +4506,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/rails?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "sideprojects",
       "url": "https://reddit.com/r/sideprojects",
       "weekly_active_users": 20259,
-      "description": "",
+      "description": "A community to share and discuss side projects.",
       "posts_analyzed": 90,
       "grid_coverage_pct": 37,
       "confidence": "normal",
@@ -4559,7 +4559,7 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-16",
       "analysis_url": "https://peeklens.ai/subreddit/sideprojects?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
@@ -4612,14 +4612,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-18",
       "analysis_url": "https://peeklens.ai/subreddit/deeplearning?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "copywriting",
       "url": "https://reddit.com/r/copywriting",
       "weekly_active_users": 19238,
-      "description": "",
+      "description": "A subreddit for learning, discussing, critiquing, and sharing resources about, advertising copy... BY copywriters, FOR copywriters. (Read the FAQ before you post. Chat with other copywriters on Discor",
       "posts_analyzed": 90,
       "grid_coverage_pct": 41,
       "confidence": "normal",
@@ -4665,14 +4665,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/copywriting?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "agency",
       "url": "https://reddit.com/r/agency",
       "weekly_active_users": 19103,
-      "description": "",
+      "description": "This is a community for agency owners and freelancers in the digital marketing space by agency owners. Help us make this community the go-to resource for peer-to-peer agency growth and connections!",
       "posts_analyzed": 92,
       "grid_coverage_pct": 37,
       "confidence": "normal",
@@ -4718,14 +4718,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-16",
       "analysis_url": "https://peeklens.ai/subreddit/agency?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "nocode",
       "url": "https://reddit.com/r/nocode",
       "weekly_active_users": 18994,
-      "description": "",
+      "description": "No-Code Community dedicated to building cool things without needing to be a developer.",
       "posts_analyzed": 94,
       "grid_coverage_pct": 45,
       "confidence": "normal",
@@ -4771,14 +4771,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/nocode?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "FulfillmentByAmazon",
       "url": "https://reddit.com/r/FulfillmentByAmazon",
       "weekly_active_users": 18956,
-      "description": "",
+      "description": "For mid to high level discussions about selling on Amazon and using their Fulfillment by Amazon (FBA) service.",
       "posts_analyzed": 90,
       "grid_coverage_pct": 39,
       "confidence": "normal",
@@ -4824,14 +4824,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/FulfillmentByAmazon?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "dropship",
       "url": "https://reddit.com/r/dropship",
       "weekly_active_users": 18803,
-      "description": "",
+      "description": "Welcome! This community is a place for entrepreneurs to discuss the dropshipping business model. It's a place to share resources, solve problems, exchange ideas, and have meaningful discussions about",
       "posts_analyzed": 95,
       "grid_coverage_pct": 43,
       "confidence": "normal",
@@ -4877,14 +4877,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/dropship?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "taxpros",
       "url": "https://reddit.com/r/taxpros",
       "weekly_active_users": 18676,
-      "description": "",
+      "description": "A community for Redditors who are tax professionals to discuss professional development, firm procedures, news, policy, software, AICPA/IRS changes, news/updates about law relating to any tax - U.S. a",
       "posts_analyzed": 91,
       "grid_coverage_pct": 42,
       "confidence": "normal",
@@ -4930,14 +4930,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-18",
       "analysis_url": "https://peeklens.ai/subreddit/taxpros?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "b2bmarketing",
       "url": "https://reddit.com/r/b2bmarketing",
       "weekly_active_users": 17820,
-      "description": "",
+      "description": "A place for professional discussion and to dissect the latest trends in B2B marketing.",
       "posts_analyzed": 89,
       "grid_coverage_pct": 39,
       "confidence": "normal",
@@ -4983,14 +4983,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/b2bmarketing?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "SocialMediaManagers",
       "url": "https://reddit.com/r/SocialMediaManagers",
       "weekly_active_users": 17793,
-      "description": "",
+      "description": "Welcome to the Social Media Managers subreddit, the virtual gathering hall for professionals in the world of social media marketing and management. Our goal is to provide a dedicated space for experie",
       "posts_analyzed": 94,
       "grid_coverage_pct": 45,
       "confidence": "normal",
@@ -5036,14 +5036,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-18",
       "analysis_url": "https://peeklens.ai/subreddit/SocialMediaManagers?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "saasbuild",
       "url": "https://reddit.com/r/saasbuild",
       "weekly_active_users": 17746,
-      "description": "",
+      "description": "Share your Startup journey and get user Feedback. For Startup Owner Outreach is crucial",
       "posts_analyzed": 90,
       "grid_coverage_pct": 39,
       "confidence": "normal",
@@ -5089,14 +5089,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-18",
       "analysis_url": "https://peeklens.ai/subreddit/saasbuild?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "django",
       "url": "https://reddit.com/r/django",
       "weekly_active_users": 17631,
-      "description": "",
+      "description": "News and links for the Django community.",
       "posts_analyzed": 92,
       "grid_coverage_pct": 38,
       "confidence": "normal",
@@ -5142,14 +5142,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/django?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "CRM",
       "url": "https://reddit.com/r/CRM",
       "weekly_active_users": 17013,
-      "description": "",
+      "description": "Customer relationship management (CRM) is a model for managing a company's interactions with current and future customers. It involves using technology to organize, automate, and synchronize sales, ma",
       "posts_analyzed": 94,
       "grid_coverage_pct": 43,
       "confidence": "normal",
@@ -5195,14 +5195,14 @@
           "sample_posts": 3
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/CRM?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "content_marketing",
       "url": "https://reddit.com/r/content_marketing",
       "weekly_active_users": 16552,
-      "description": "",
+      "description": "A community of content marketers helping each other improve by providing feedback, sharing advice, and resources.  This is not a place to spam your blog.",
       "posts_analyzed": 93,
       "grid_coverage_pct": 38,
       "confidence": "normal",
@@ -5248,14 +5248,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/content_marketing?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "GrowthHacking",
       "url": "https://reddit.com/r/GrowthHacking",
       "weekly_active_users": 16254,
-      "description": "",
+      "description": "Welcome to world's largest Growth Hacking Community.   A place for Growth Hacking practitioners and professionals to discuss Growth Marketing.   Share novel growth marketing experiments, new tools, ne",
       "posts_analyzed": 94,
       "grid_coverage_pct": 43,
       "confidence": "normal",
@@ -5301,14 +5301,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/GrowthHacking?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "branding",
       "url": "https://reddit.com/r/branding",
       "weekly_active_users": 16127,
-      "description": "",
+      "description": "/r/branding welcomes discussion about \u2192 Engaging applications \u2192 Case studies \u2192 Management techniques \u2192 Growing your brand",
       "posts_analyzed": 96,
       "grid_coverage_pct": 43,
       "confidence": "normal",
@@ -5354,14 +5354,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/branding?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "SaasDevelopers",
       "url": "https://reddit.com/r/SaasDevelopers",
       "weekly_active_users": 16022,
-      "description": "",
+      "description": "A community for developers working in SaaS.",
       "posts_analyzed": 94,
       "grid_coverage_pct": 41,
       "confidence": "normal",
@@ -5407,14 +5407,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-18",
       "analysis_url": "https://peeklens.ai/subreddit/SaasDevelopers?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "laravel",
       "url": "https://reddit.com/r/laravel",
       "weekly_active_users": 15992,
-      "description": "",
+      "description": "Laravel is a free and open-source PHP web framework created by Taylor Otwell. Laravel features expressive, elegant syntax - freeing you to create without sweating the small things.",
       "posts_analyzed": 91,
       "grid_coverage_pct": 40,
       "confidence": "normal",
@@ -5460,14 +5460,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/laravel?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "Emailmarketing",
       "url": "https://reddit.com/r/Emailmarketing",
       "weekly_active_users": 15090,
-      "description": "",
+      "description": "A place for email marketing professionals to talk shop.",
       "posts_analyzed": 96,
       "grid_coverage_pct": 40,
       "confidence": "normal",
@@ -5513,14 +5513,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-18",
       "analysis_url": "https://peeklens.ai/subreddit/Emailmarketing?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "angular",
       "url": "https://reddit.com/r/angular",
       "weekly_active_users": 13112,
-      "description": "",
+      "description": "Angular is a web framework that empowers developers to build fast, reliable applications.",
       "posts_analyzed": 91,
       "grid_coverage_pct": 38,
       "confidence": "normal",
@@ -5566,14 +5566,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-18",
       "analysis_url": "https://peeklens.ai/subreddit/angular?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "ansible",
       "url": "https://reddit.com/r/ansible",
       "weekly_active_users": 12281,
-      "description": "",
+      "description": "Automation for the People! A Subreddit dedicated to fostering communication in the Ansible Community, includes Ansible, AWX, Ansible Galaxy, ansible-lint, Molecule, etc.",
       "posts_analyzed": 96,
       "grid_coverage_pct": 38,
       "confidence": "normal",
@@ -5619,14 +5619,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-18",
       "analysis_url": "https://peeklens.ai/subreddit/ansible?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "indiehackers",
       "url": "https://reddit.com/r/indiehackers",
       "weekly_active_users": 10745,
-      "description": "",
+      "description": "IndieHackers is a subreddit focused on people who bootstrap their way to success by building products.",
       "posts_analyzed": 85,
       "grid_coverage_pct": 41,
       "confidence": "normal",
@@ -5672,14 +5672,14 @@
           "sample_posts": 2
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/indiehackers?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "userexperience",
       "url": "https://reddit.com/r/userexperience",
       "weekly_active_users": 10259,
-      "description": "",
+      "description": "A community where professionals, enthusiasts, and individuals interested in the field of user experience can share knowledge, ask questions, and engage in discussions about various UX-related topics.",
       "posts_analyzed": 96,
       "grid_coverage_pct": 40,
       "confidence": "normal",
@@ -5725,14 +5725,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/userexperience?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "webflow",
       "url": "https://reddit.com/r/webflow",
       "weekly_active_users": 9938,
-      "description": "",
+      "description": "Welcome to the Official Webflow Subreddit!  Build with the power of code \u2014 without writing any.  Take control of HTML, CSS, and JavaScript in a visual canvas. Webflow generates clean, semantic code th",
       "posts_analyzed": 94,
       "grid_coverage_pct": 40,
       "confidence": "normal",
@@ -5778,14 +5778,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/webflow?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "salestechniques",
       "url": "https://reddit.com/r/salestechniques",
       "weekly_active_users": 9472,
-      "description": "",
+      "description": "This subreddit is for sharing techniques related to sales, and the sales process that can improve selling experiences, and increase deal close rates. This subreddit is not for motivational posts, affi",
       "posts_analyzed": 98,
       "grid_coverage_pct": 45,
       "confidence": "normal",
@@ -5831,14 +5831,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/salestechniques?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "woocommerce",
       "url": "https://reddit.com/r/woocommerce",
       "weekly_active_users": 8791,
-      "description": "",
+      "description": "WooCommerce is an open source, enterprise-level ecommerce plugin available for WordPress. It enables you to freely sell products from your WordPress site. Learn more at WooCommerce.com.",
       "posts_analyzed": 95,
       "grid_coverage_pct": 42,
       "confidence": "normal",
@@ -5884,14 +5884,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-18",
       "analysis_url": "https://peeklens.ai/subreddit/woocommerce?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "seogrowth",
       "url": "https://reddit.com/r/seogrowth",
       "weekly_active_users": 8576,
-      "description": "",
+      "description": "Subreddit dedicated to growing blogs, websites, and businesses via SEO. Home to the best tips, tricks, case studies and more!  Not sure where to start?   Check the pinned post for a starter guide.",
       "posts_analyzed": 100,
       "grid_coverage_pct": 41,
       "confidence": "normal",
@@ -5937,14 +5937,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-18",
       "analysis_url": "https://peeklens.ai/subreddit/seogrowth?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "venturecapital",
       "url": "https://reddit.com/r/venturecapital",
       "weekly_active_users": 8380,
-      "description": "",
+      "description": "Venture capital news and articles, for the VC industry, and related early-stage investors.",
       "posts_analyzed": 93,
       "grid_coverage_pct": 40,
       "confidence": "normal",
@@ -5990,14 +5990,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-16",
       "analysis_url": "https://peeklens.ai/subreddit/venturecapital?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "design_critiques",
       "url": "https://reddit.com/r/design_critiques",
       "weekly_active_users": 6650,
-      "description": "",
+      "description": "Help new and amateur designers improve their designs through reviews and critiques. If you are an experienced designer, please review a submission and share your constructive suggestions!",
       "posts_analyzed": 94,
       "grid_coverage_pct": 41,
       "confidence": "normal",
@@ -6043,14 +6043,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/design_critiques?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "startup",
       "url": "https://reddit.com/r/startup",
       "weekly_active_users": 6278,
-      "description": "",
+      "description": "Reddit's space to learn the tools and skills necessary to build a successful startup. A community meant to support each other and grow through the exchange of knowledge and ideas. A rising tide lifts",
       "posts_analyzed": 94,
       "grid_coverage_pct": 39,
       "confidence": "normal",
@@ -6096,14 +6096,14 @@
           "sample_posts": 2
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-16",
       "analysis_url": "https://peeklens.ai/subreddit/startup?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "bigseo",
       "url": "https://reddit.com/r/bigseo",
       "weekly_active_users": 6214,
-      "description": "",
+      "description": "Welcome! This subreddit was created with the intent to foster growth and knowledge about SEO. This is the largest and most reputable SEO subreddit run by professional SEOs on Reddit.  We encourage you",
       "posts_analyzed": 95,
       "grid_coverage_pct": 36,
       "confidence": "normal",
@@ -6149,14 +6149,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/bigseo?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "Airtable",
       "url": "https://reddit.com/r/Airtable",
       "weekly_active_users": 5794,
-      "description": "",
+      "description": "Airtable works like a spreadsheet but gives you the power of a database to organize anything.   Discuss any and all things Airtable here!",
       "posts_analyzed": 96,
       "grid_coverage_pct": 40,
       "confidence": "normal",
@@ -6202,14 +6202,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/Airtable?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "WebsiteSEO",
       "url": "https://reddit.com/r/WebsiteSEO",
       "weekly_active_users": 4662,
-      "description": "",
+      "description": "Website Search Engine Optimization, Find Website On-Page SEO and Off-Page SEO Issues and Fix them to Rank 1st Page on Search Engine on Google & Bing... This Community for SEO news, tips and case studi",
       "posts_analyzed": 95,
       "grid_coverage_pct": 42,
       "confidence": "normal",
@@ -6255,14 +6255,14 @@
           "sample_posts": 2
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-18",
       "analysis_url": "https://peeklens.ai/subreddit/WebsiteSEO?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "advancedentrepreneur",
       "url": "https://reddit.com/r/advancedentrepreneur",
       "weekly_active_users": 4648,
-      "description": "",
+      "description": "A community for established entrepreneurs to share tips, tricks, and fundamentals on growing your business to the next level.",
       "posts_analyzed": 95,
       "grid_coverage_pct": 43,
       "confidence": "normal",
@@ -6308,14 +6308,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-18",
       "analysis_url": "https://peeklens.ai/subreddit/advancedentrepreneur?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "Entrepreneurship",
       "url": "https://reddit.com/r/Entrepreneurship",
       "weekly_active_users": 4401,
-      "description": "",
+      "description": "A community dedicated to entrepreneurship questions and advice.",
       "posts_analyzed": 94,
       "grid_coverage_pct": 42,
       "confidence": "normal",
@@ -6361,14 +6361,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/Entrepreneurship?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "EcommerceWebsite",
       "url": "https://reddit.com/r/EcommerceWebsite",
       "weekly_active_users": 3819,
-      "description": "",
+      "description": "This is the go-to community for all things related to e-commerce websites. Whether you're a seasoned entrepreneur, a budding online store owner, a web developer, or simply interested in the world of e",
       "posts_analyzed": 98,
       "grid_coverage_pct": 42,
       "confidence": "normal",
@@ -6414,14 +6414,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-19",
       "analysis_url": "https://peeklens.ai/subreddit/EcommerceWebsite?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "marketingagency",
       "url": "https://reddit.com/r/marketingagency",
       "weekly_active_users": 3227,
-      "description": "",
+      "description": "A promotion-free community for marketing agency owners (and aspiring marketers) to talk, ask, help, etc. No sales, no nonsense.",
       "posts_analyzed": 95,
       "grid_coverage_pct": 43,
       "confidence": "normal",
@@ -6467,14 +6467,14 @@
           "sample_posts": 3
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-19",
       "analysis_url": "https://peeklens.ai/subreddit/marketingagency?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "mongodb",
       "url": "https://reddit.com/r/mongodb",
       "weekly_active_users": 3022,
-      "description": "",
+      "description": "News, articles, and interesting stuff in general about MongoDB (unofficial).",
       "posts_analyzed": 94,
       "grid_coverage_pct": 40,
       "confidence": "normal",
@@ -6520,14 +6520,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-19",
       "analysis_url": "https://peeklens.ai/subreddit/mongodb?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "elasticsearch",
       "url": "https://reddit.com/r/elasticsearch",
       "weekly_active_users": 2766,
-      "description": "",
+      "description": "Links and discussion for the free and open source, (vector) search and analytics engine, Elasticsearch https://www.elastic.co/products/elasticsearch",
       "posts_analyzed": 95,
       "grid_coverage_pct": 37,
       "confidence": "normal",
@@ -6573,14 +6573,14 @@
           "sample_posts": 2
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-19",
       "analysis_url": "https://peeklens.ai/subreddit/elasticsearch?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "indiebiz",
       "url": "https://reddit.com/r/indiebiz",
       "weekly_active_users": 2677,
-      "description": "",
+      "description": "A Reddit for small businesses, independents and startups to offer and share services, products, resources, and insight.",
       "posts_analyzed": 100,
       "grid_coverage_pct": 45,
       "confidence": "normal",
@@ -6626,14 +6626,14 @@
           "sample_posts": 3
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-19",
       "analysis_url": "https://peeklens.ai/subreddit/indiebiz?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "SaaSMarketing",
       "url": "https://reddit.com/r/SaaSMarketing",
       "weekly_active_users": 2555,
-      "description": "",
+      "description": "A community dedicated to sharing and discussing all aspects of SaaS marketing,  from super tactical stuff all the way up to overarching strategy.   If you're a SaaS founder and you're making $5K-$500K",
       "posts_analyzed": 95,
       "grid_coverage_pct": 40,
       "confidence": "normal",
@@ -6679,14 +6679,14 @@
           "sample_posts": 2
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/SaaSMarketing?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "shopify_growth",
       "url": "https://reddit.com/r/shopify_growth",
       "weekly_active_users": 2150,
-      "description": "",
+      "description": "A space for founders, marketers, and operators focused on scaling Shopify brands. This community explores conversion strategies, retention ideas, mobile app growth, personalization tactics, paid perfo",
       "posts_analyzed": 90,
       "grid_coverage_pct": 39,
       "confidence": "normal",
@@ -6732,14 +6732,14 @@
           "sample_posts": 2
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-19",
       "analysis_url": "https://peeklens.ai/subreddit/shopify_growth?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "startups_promotion",
       "url": "https://reddit.com/r/startups_promotion",
       "weekly_active_users": 1909,
-      "description": "",
+      "description": "Share your Startup (product, marketplace, or service), your SaaS app, or your Small Business. Write at least 1-2 sentences about it and explain why we need it and ask the community your top questions.",
       "posts_analyzed": 96,
       "grid_coverage_pct": 39,
       "confidence": "normal",
@@ -6785,14 +6785,14 @@
           "sample_posts": 2
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/startups_promotion?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "SaaSSales",
       "url": "https://reddit.com/r/SaaSSales",
       "weekly_active_users": 1600,
-      "description": "",
+      "description": "THIS IS NOT A PLACE TO SELL YOUR SAAS. r/SaaSSales is a community for anyone involved in selling SaaS. From SDRs to founders, from cold emailers to closers. Think of it as your sales floor, strategy r",
       "posts_analyzed": 100,
       "grid_coverage_pct": 43,
       "confidence": "normal",
@@ -6838,14 +6838,14 @@
           "sample_posts": 3
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-16",
       "analysis_url": "https://peeklens.ai/subreddit/SaaSSales?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "product_design",
       "url": "https://reddit.com/r/product_design",
       "weekly_active_users": 1311,
-      "description": "",
+      "description": "Everything related to Product Design!",
       "posts_analyzed": 99,
       "grid_coverage_pct": 43,
       "confidence": "normal",
@@ -6891,14 +6891,14 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/product_design?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
       "subreddit": "ecommercemarketing",
       "url": "https://reddit.com/r/ecommercemarketing",
       "weekly_active_users": 997,
-      "description": "",
+      "description": "Real ecommerce marketing tactics from people who run stores. No courses, no agency pitches, no \"5 tips\" posts. Share what you did, what happened, and what the numbers looked like.    Store owners, in-",
       "posts_analyzed": 95,
       "grid_coverage_pct": 37,
       "confidence": "normal",
@@ -6944,7 +6944,7 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/ecommercemarketing?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
@@ -6997,7 +6997,7 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/digitalmarketing?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
@@ -7050,7 +7050,7 @@
           "sample_posts": 2
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/marketingresearch?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
@@ -7103,7 +7103,7 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/CRO?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
@@ -7156,7 +7156,7 @@
           "sample_posts": 2
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/affiliatemarketing?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
@@ -7209,7 +7209,7 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/leadgeneration?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
@@ -7262,7 +7262,7 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/prospecting?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
@@ -7315,7 +7315,7 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/RevOps?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
@@ -7368,7 +7368,7 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/Figma?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
@@ -7421,7 +7421,7 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/azure?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
@@ -7474,7 +7474,7 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/notion?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
@@ -7527,7 +7527,7 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/Zapier?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
@@ -7580,7 +7580,7 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/smallbusinessUK?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     },
     {
@@ -7633,7 +7633,7 @@
           "sample_posts": 1
         }
       ],
-      "last_updated": "",
+      "last_updated": "2026-09-17",
       "analysis_url": "https://peeklens.ai/subreddit/bookkeeping?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset"
     }
   ]

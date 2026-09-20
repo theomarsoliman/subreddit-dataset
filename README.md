@@ -4,7 +4,7 @@
 
 > Built and maintained by **[Peeklens](https://peeklens.ai?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset)**, which finds the Reddit threads where someone is asking for a product like yours. The per-subreddit pages are free and need no account: **[browse them here](https://peeklens.ai/best-time-to-post?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset)**.
 
-All times are **UTC**. Day 0 is Sunday. Generated .
+All times are **UTC**. Day 0 is Sunday. Generated 2026-09-19.
 
 ![Where each subreddit's best hour falls](https://raw.githubusercontent.com/theomarsoliman/subreddit-dataset/main/images/all-subreddits-heatmap.png)
 
