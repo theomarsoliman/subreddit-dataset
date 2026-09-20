@@ -1,16 +1,30 @@
 # Subreddit Dataset
 
-An open dataset of **144 subreddits**: weekly active users, and the hours when posts in each community actually get engagement.
+**When posts actually get engagement in 144 subreddits.** Per hour, per community, with the sample size shown for every row.
 
-All times are **UTC**. Day 0 is Sunday. Data generated .
+> Built and maintained by **[Peeklens](https://peeklens.ai?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset)**, which finds the Reddit threads where someone is asking for a product like yours. The per-subreddit pages are free and need no account: **[browse them here](https://peeklens.ai/best-time-to-post?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset)**.
 
-- `data/subreddits.csv` — one row per subreddit, best two posting windows
-- `data/subreddits.json` — full records with the top five windows each
-- `data/heatmaps/{subreddit}.json` — the complete 7x24 hourly grid
+All times are **UTC**. Day 0 is Sunday. Generated .
 
-## Why this exists
+![Where each subreddit's best hour falls](https://raw.githubusercontent.com/theomarsoliman/subreddit-dataset/main/images/all-subreddits-heatmap.png)
 
-Most "best time to post on Reddit" advice is one global chart, usually "Monday 9am EST", applied to every community. That is close to useless: r/sysadmin and r/SideProject do not share an audience or a rhythm. This dataset gives you per-subreddit numbers instead, with the sample size attached so you can judge how much to trust each row.
+## The finding
+
+There is no universal best time to post on Reddit.
+
+Across 144 subreddits, the single best hour lands in **93 of the 168 weekly slots**, and the most crowded slot in the entire week holds just **4 subreddits**. The most common single best hour is **15:00 UTC**, and it applies to only **13 of 144** communities.
+
+So advice like "post Monday at 9am EST" is right for a handful of subreddits and wrong for the rest. The useful question is what *your* community does.
+
+![Every community has its own rhythm](https://raw.githubusercontent.com/theomarsoliman/subreddit-dataset/main/images/subreddit-comparison.png)
+
+## What is in here
+
+| File | Contents |
+|---|---|
+| [`data/subreddits.csv`](data/subreddits.csv) | One row per subreddit, best two windows |
+| [`data/subreddits.json`](data/subreddits.json) | Full records, top five windows each |
+| `data/heatmaps/{subreddit}.json` | Complete 7x24 hourly grid |
 
 ## Top 50 by weekly active users
 
@@ -67,37 +81,39 @@ Most "best time to post on Reddit" advice is one global chart, usually "Monday 9
 | [r/shopify](https://reddit.com/r/shopify) | 61,730 | Mon 14:00 | Thu 20:00 | 86 | [view](https://peeklens.ai/subreddit/shopify?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset) |
 | [r/kubernetes](https://reddit.com/r/kubernetes) | 59,742 | Sat 15:00 | Tue 09:00 | 82 | [view](https://peeklens.ai/subreddit/kubernetes?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset) |
 
-Full table: [`data/subreddits.csv`](data/subreddits.csv). ⚠️ marks low-confidence rows, see Limitations.
+Full table in [`data/subreddits.csv`](data/subreddits.csv). ⚠️ marks low-confidence rows, see Limitations.
 
 ## How it was built
 
 1. For each subreddit, the top posts of the past year were collected via a commercial Reddit API.
 2. Each post was bucketed by its UTC day and hour of creation.
-3. Each bucket's engagement score is the mean upvotes plus twice the mean comments, normalised to 0-100 across that subreddit's own grid. Comments are weighted double because they indicate discussion rather than a passing upvote.
+3. A bucket's engagement score is mean upvotes plus twice mean comments, normalised to 0-100 within that subreddit's own grid. Comments count double because they signal discussion rather than a passing upvote.
 4. The five highest-scoring buckets become that subreddit's best windows.
 
-Engagement is **relative to the subreddit itself**, not across subreddits. A 100 in a small community is not comparable to a 100 in a large one.
+Engagement is **relative to the subreddit itself**. A 100 in a small community is not comparable to a 100 in a large one.
 
-## Limitations, read these
+![When each subreddit's single best hour falls](https://raw.githubusercontent.com/theomarsoliman/subreddit-dataset/main/images/best-hour-distribution.png)
 
-- **Correlation, not causation.** These are the hours when well-performing posts happened to be published. Posting at 03:00 UTC on a Tuesday will not, by itself, make a bad post succeed.
-- **Sample sizes vary a lot**, from about 15 posts to 100. The `posts_analyzed` column is in every file, and three subreddits are flagged `confidence: low` (under 40 posts or under 25% grid coverage). Treat those as directional.
-- **Median grid coverage is 39%** of the 168 weekly hours. Most communities simply have no posts in many overnight hours, so those cells are genuinely empty rather than zero-engagement.
-- **Top posts only**, which biases toward what worked. This is not a random sample of all posts.
+## Limitations, please read
+
+- **Correlation, not causation.** These are hours when well-performing posts happened to be published. Posting at 03:00 UTC will not rescue a bad post.
+- **Sample sizes vary**, roughly 15 to 100 posts. `posts_analyzed` is in every file, and three subreddits are flagged `confidence: low` (under 40 posts or under 25% grid coverage). Treat those as directional.
+- **Median grid coverage is 39%** of the 168 weekly hours. Most communities simply have no posts in many overnight hours, so those cells are empty rather than zero-engagement.
+- **Top posts only**, which biases toward what worked. Not a random sample.
 - **A snapshot**, not a live feed. Communities drift. Check `last_updated`.
-- Weekly active users come from the platform's own reporting and move around.
+- Two subreddits were excluded for having only 1 and 8 analysable posts.
 
 ## Licence
 
-Data is [CC BY 4.0](LICENSE-DATA): use it commercially, just credit it. Code is [MIT](LICENSE).
+Data is [CC BY 4.0](LICENSE-DATA), so commercial use is fine with credit. Code is [MIT](LICENSE).
 
-Attribution: "Subreddit Dataset by [Peeklens](https://peeklens.ai?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset)".
+Attribution: `Subreddit Dataset by Peeklens (https://peeklens.ai)`
 
 ## Who made this
 
-Built by [Peeklens](https://peeklens.ai?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset), which monitors Reddit for conversations where someone is asking for a product like yours, scores them by buying intent and drafts a reply you post yourself.
+[Peeklens](https://peeklens.ai?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset) monitors Reddit for conversations where someone is actively asking for a product like yours, scores them by buying intent, and drafts a reply you post from your own account.
 
-The per-subreddit analysis pages are free and need no account, for example [r/SideProject](https://peeklens.ai/subreddit/SideProject?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset) or [r/webdev](https://peeklens.ai/subreddit/webdev?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset). There is also a free [best time to post](https://peeklens.ai/best-time-to-post?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset) tool covering every subreddit here.
+Free, no account needed: [r/SideProject](https://peeklens.ai/subreddit/SideProject?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset) · [r/webdev](https://peeklens.ai/subreddit/webdev?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset) · [best time to post](https://peeklens.ai/best-time-to-post?utm_source=github&utm_medium=dataset&utm_campaign=subreddit-dataset)
 
 ## Contributing
 
