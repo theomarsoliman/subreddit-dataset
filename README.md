@@ -26,6 +26,8 @@ So advice like "post Monday at 9am EST" is right for a handful of subreddits and
 | [`data/subreddits.json`](data/subreddits.json) | Full records, top five windows each |
 | `data/heatmaps/{subreddit}.json` | Complete 7x24 hourly grid |
 
+CSV columns: `subreddit`, `weekly_active_users`, `posts_analyzed`, `grid_coverage_pct`, `confidence`, `best_day_utc`, `best_hour_utc`, `second_best_day_utc`, `second_best_hour_utc`, `last_updated`, `description`, `analysis_url`.
+
 ## Top 50 by weekly active users
 
 | Subreddit | Weekly active | Best window (UTC) | Second best | Posts analysed | Full heatmap |
@@ -100,7 +102,8 @@ Engagement is **relative to the subreddit itself**. A 100 in a small community i
 - **Sample sizes vary**, roughly 15 to 100 posts. `posts_analyzed` is in every file, and three subreddits are flagged `confidence: low` (under 40 posts or under 25% grid coverage). Treat those as directional.
 - **Median grid coverage is 39%** of the 168 weekly hours. Most communities simply have no posts in many overnight hours, so those cells are empty rather than zero-engagement.
 - **Top posts only**, which biases toward what worked. Not a random sample.
-- **A snapshot**, not a live feed. Communities drift. Check `last_updated`.
+- **A snapshot**, not a live feed. Communities drift. Check `last_updated`, which is set on every row.
+- **`description` is blank for 15 of the 144 rows**, where Reddit lists no public description for that community. The timing data for those rows is unaffected.
 - Two subreddits were excluded for having only 1 and 8 analysable posts.
 
 ## Licence
