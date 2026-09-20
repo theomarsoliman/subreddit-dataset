@@ -1,0 +1,1352 @@
+{
+  "subreddit": "recruiting",
+  "generated_from_posts": 93,
+  "grid_coverage_pct": 40,
+  "cells": [
+    {
+      "day": 0,
+      "hour": 0,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 0,
+      "hour": 1,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 0,
+      "hour": 2,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 0,
+      "hour": 3,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 0,
+      "hour": 4,
+      "avgScore": 79,
+      "avgComments": 116,
+      "postCount": 2,
+      "engagement": 3
+    },
+    {
+      "day": 0,
+      "hour": 5,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 0,
+      "hour": 6,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 0,
+      "hour": 7,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 0,
+      "hour": 8,
+      "avgScore": 64,
+      "avgComments": 48,
+      "postCount": 1,
+      "engagement": 2
+    },
+    {
+      "day": 0,
+      "hour": 9,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 0,
+      "hour": 10,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 0,
+      "hour": 11,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 0,
+      "hour": 12,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 0,
+      "hour": 13,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 0,
+      "hour": 14,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 0,
+      "hour": 15,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 0,
+      "hour": 16,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 0,
+      "hour": 17,
+      "avgScore": 288,
+      "avgComments": 131,
+      "postCount": 1,
+      "engagement": 6
+    },
+    {
+      "day": 0,
+      "hour": 18,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 0,
+      "hour": 19,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 0,
+      "hour": 20,
+      "avgScore": 181,
+      "avgComments": 129,
+      "postCount": 1,
+      "engagement": 5
+    },
+    {
+      "day": 0,
+      "hour": 21,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 0,
+      "hour": 22,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 0,
+      "hour": 23,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 1,
+      "hour": 0,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 1,
+      "hour": 1,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 1,
+      "hour": 2,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 1,
+      "hour": 3,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 1,
+      "hour": 4,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 1,
+      "hour": 5,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 1,
+      "hour": 6,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 1,
+      "hour": 7,
+      "avgScore": 246,
+      "avgComments": 187,
+      "postCount": 1,
+      "engagement": 7
+    },
+    {
+      "day": 1,
+      "hour": 8,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 1,
+      "hour": 9,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 1,
+      "hour": 10,
+      "avgScore": 385,
+      "avgComments": 132,
+      "postCount": 1,
+      "engagement": 7
+    },
+    {
+      "day": 1,
+      "hour": 11,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 1,
+      "hour": 12,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 1,
+      "hour": 13,
+      "avgScore": 48,
+      "avgComments": 33,
+      "postCount": 1,
+      "engagement": 1
+    },
+    {
+      "day": 1,
+      "hour": 14,
+      "avgScore": 1221,
+      "avgComments": 303,
+      "postCount": 2,
+      "engagement": 20
+    },
+    {
+      "day": 1,
+      "hour": 15,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 1,
+      "hour": 16,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 1,
+      "hour": 17,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 1,
+      "hour": 18,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 1,
+      "hour": 19,
+      "avgScore": 57,
+      "avgComments": 161,
+      "postCount": 1,
+      "engagement": 4
+    },
+    {
+      "day": 1,
+      "hour": 20,
+      "avgScore": 78,
+      "avgComments": 42,
+      "postCount": 1,
+      "engagement": 2
+    },
+    {
+      "day": 1,
+      "hour": 21,
+      "avgScore": 237,
+      "avgComments": 155,
+      "postCount": 1,
+      "engagement": 6
+    },
+    {
+      "day": 1,
+      "hour": 22,
+      "avgScore": 88,
+      "avgComments": 10,
+      "postCount": 1,
+      "engagement": 1
+    },
+    {
+      "day": 1,
+      "hour": 23,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 2,
+      "hour": 0,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 2,
+      "hour": 1,
+      "avgScore": 264,
+      "avgComments": 128,
+      "postCount": 1,
+      "engagement": 6
+    },
+    {
+      "day": 2,
+      "hour": 2,
+      "avgScore": 122,
+      "avgComments": 112,
+      "postCount": 1,
+      "engagement": 4
+    },
+    {
+      "day": 2,
+      "hour": 3,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 2,
+      "hour": 4,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 2,
+      "hour": 5,
+      "avgScore": 63,
+      "avgComments": 85,
+      "postCount": 1,
+      "engagement": 3
+    },
+    {
+      "day": 2,
+      "hour": 6,
+      "avgScore": 190,
+      "avgComments": 215,
+      "postCount": 1,
+      "engagement": 7
+    },
+    {
+      "day": 2,
+      "hour": 7,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 2,
+      "hour": 8,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 2,
+      "hour": 9,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 2,
+      "hour": 10,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 2,
+      "hour": 11,
+      "avgScore": 59,
+      "avgComments": 62,
+      "postCount": 2,
+      "engagement": 2
+    },
+    {
+      "day": 2,
+      "hour": 12,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 2,
+      "hour": 13,
+      "avgScore": 145,
+      "avgComments": 128,
+      "postCount": 3,
+      "engagement": 4
+    },
+    {
+      "day": 2,
+      "hour": 14,
+      "avgScore": 3212,
+      "avgComments": 204,
+      "postCount": 1,
+      "engagement": 39
+    },
+    {
+      "day": 2,
+      "hour": 15,
+      "avgScore": 56,
+      "avgComments": 103,
+      "postCount": 2,
+      "engagement": 3
+    },
+    {
+      "day": 2,
+      "hour": 16,
+      "avgScore": 73,
+      "avgComments": 66,
+      "postCount": 1,
+      "engagement": 2
+    },
+    {
+      "day": 2,
+      "hour": 17,
+      "avgScore": 58,
+      "avgComments": 61,
+      "postCount": 1,
+      "engagement": 2
+    },
+    {
+      "day": 2,
+      "hour": 18,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 2,
+      "hour": 19,
+      "avgScore": 66,
+      "avgComments": 128,
+      "postCount": 2,
+      "engagement": 3
+    },
+    {
+      "day": 2,
+      "hour": 20,
+      "avgScore": 101,
+      "avgComments": 56,
+      "postCount": 1,
+      "engagement": 2
+    },
+    {
+      "day": 2,
+      "hour": 21,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 2,
+      "hour": 22,
+      "avgScore": 127,
+      "avgComments": 177,
+      "postCount": 2,
+      "engagement": 5
+    },
+    {
+      "day": 2,
+      "hour": 23,
+      "avgScore": 52,
+      "avgComments": 52,
+      "postCount": 1,
+      "engagement": 2
+    },
+    {
+      "day": 3,
+      "hour": 0,
+      "avgScore": 110,
+      "avgComments": 71,
+      "postCount": 1,
+      "engagement": 3
+    },
+    {
+      "day": 3,
+      "hour": 1,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 3,
+      "hour": 2,
+      "avgScore": 358,
+      "avgComments": 363,
+      "postCount": 1,
+      "engagement": 12
+    },
+    {
+      "day": 3,
+      "hour": 3,
+      "avgScore": 120,
+      "avgComments": 50,
+      "postCount": 1,
+      "engagement": 2
+    },
+    {
+      "day": 3,
+      "hour": 4,
+      "avgScore": 301,
+      "avgComments": 164,
+      "postCount": 1,
+      "engagement": 7
+    },
+    {
+      "day": 3,
+      "hour": 5,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 3,
+      "hour": 6,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 3,
+      "hour": 7,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 3,
+      "hour": 8,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 3,
+      "hour": 9,
+      "avgScore": 90,
+      "avgComments": 50,
+      "postCount": 1,
+      "engagement": 2
+    },
+    {
+      "day": 3,
+      "hour": 10,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 3,
+      "hour": 11,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 3,
+      "hour": 12,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 3,
+      "hour": 13,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 3,
+      "hour": 14,
+      "avgScore": 96,
+      "avgComments": 103,
+      "postCount": 1,
+      "engagement": 3
+    },
+    {
+      "day": 3,
+      "hour": 15,
+      "avgScore": 74,
+      "avgComments": 115,
+      "postCount": 2,
+      "engagement": 3
+    },
+    {
+      "day": 3,
+      "hour": 16,
+      "avgScore": 48,
+      "avgComments": 37,
+      "postCount": 1,
+      "engagement": 1
+    },
+    {
+      "day": 3,
+      "hour": 17,
+      "avgScore": 65,
+      "avgComments": 191,
+      "postCount": 1,
+      "engagement": 5
+    },
+    {
+      "day": 3,
+      "hour": 18,
+      "avgScore": 202,
+      "avgComments": 297,
+      "postCount": 1,
+      "engagement": 9
+    },
+    {
+      "day": 3,
+      "hour": 19,
+      "avgScore": 216,
+      "avgComments": 39,
+      "postCount": 1,
+      "engagement": 3
+    },
+    {
+      "day": 3,
+      "hour": 20,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 3,
+      "hour": 21,
+      "avgScore": 43,
+      "avgComments": 20,
+      "postCount": 1,
+      "engagement": 1
+    },
+    {
+      "day": 3,
+      "hour": 22,
+      "avgScore": 49,
+      "avgComments": 56,
+      "postCount": 1,
+      "engagement": 2
+    },
+    {
+      "day": 3,
+      "hour": 23,
+      "avgScore": 42,
+      "avgComments": 136,
+      "postCount": 1,
+      "engagement": 3
+    },
+    {
+      "day": 4,
+      "hour": 0,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 4,
+      "hour": 1,
+      "avgScore": 72,
+      "avgComments": 32,
+      "postCount": 1,
+      "engagement": 1
+    },
+    {
+      "day": 4,
+      "hour": 2,
+      "avgScore": 199,
+      "avgComments": 77,
+      "postCount": 1,
+      "engagement": 4
+    },
+    {
+      "day": 4,
+      "hour": 3,
+      "avgScore": 57,
+      "avgComments": 137,
+      "postCount": 1,
+      "engagement": 4
+    },
+    {
+      "day": 4,
+      "hour": 4,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 4,
+      "hour": 5,
+      "avgScore": 51,
+      "avgComments": 57,
+      "postCount": 1,
+      "engagement": 2
+    },
+    {
+      "day": 4,
+      "hour": 6,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 4,
+      "hour": 7,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 4,
+      "hour": 8,
+      "avgScore": 57,
+      "avgComments": 36,
+      "postCount": 2,
+      "engagement": 1
+    },
+    {
+      "day": 4,
+      "hour": 9,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 4,
+      "hour": 10,
+      "avgScore": 62,
+      "avgComments": 37,
+      "postCount": 1,
+      "engagement": 1
+    },
+    {
+      "day": 4,
+      "hour": 11,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 4,
+      "hour": 12,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 4,
+      "hour": 13,
+      "avgScore": 63,
+      "avgComments": 29,
+      "postCount": 1,
+      "engagement": 1
+    },
+    {
+      "day": 4,
+      "hour": 14,
+      "avgScore": 120,
+      "avgComments": 56,
+      "postCount": 1,
+      "engagement": 3
+    },
+    {
+      "day": 4,
+      "hour": 15,
+      "avgScore": 149,
+      "avgComments": 91,
+      "postCount": 3,
+      "engagement": 4
+    },
+    {
+      "day": 4,
+      "hour": 16,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 4,
+      "hour": 17,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 4,
+      "hour": 18,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 4,
+      "hour": 19,
+      "avgScore": 193,
+      "avgComments": 91,
+      "postCount": 3,
+      "engagement": 4
+    },
+    {
+      "day": 4,
+      "hour": 20,
+      "avgScore": 152,
+      "avgComments": 119,
+      "postCount": 1,
+      "engagement": 4
+    },
+    {
+      "day": 4,
+      "hour": 21,
+      "avgScore": 257,
+      "avgComments": 161,
+      "postCount": 2,
+      "engagement": 6
+    },
+    {
+      "day": 4,
+      "hour": 22,
+      "avgScore": 7703,
+      "avgComments": 777,
+      "postCount": 2,
+      "engagement": 100
+    },
+    {
+      "day": 4,
+      "hour": 23,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 5,
+      "hour": 0,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 5,
+      "hour": 1,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 5,
+      "hour": 2,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 5,
+      "hour": 3,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 5,
+      "hour": 4,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 5,
+      "hour": 5,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 5,
+      "hour": 6,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 5,
+      "hour": 7,
+      "avgScore": 57,
+      "avgComments": 46,
+      "postCount": 1,
+      "engagement": 2
+    },
+    {
+      "day": 5,
+      "hour": 8,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 5,
+      "hour": 9,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 5,
+      "hour": 10,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 5,
+      "hour": 11,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 5,
+      "hour": 12,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 5,
+      "hour": 13,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 5,
+      "hour": 14,
+      "avgScore": 185,
+      "avgComments": 132,
+      "postCount": 1,
+      "engagement": 5
+    },
+    {
+      "day": 5,
+      "hour": 15,
+      "avgScore": 576,
+      "avgComments": 100,
+      "postCount": 1,
+      "engagement": 8
+    },
+    {
+      "day": 5,
+      "hour": 16,
+      "avgScore": 258,
+      "avgComments": 160,
+      "postCount": 2,
+      "engagement": 6
+    },
+    {
+      "day": 5,
+      "hour": 17,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 5,
+      "hour": 18,
+      "avgScore": 66,
+      "avgComments": 73,
+      "postCount": 1,
+      "engagement": 2
+    },
+    {
+      "day": 5,
+      "hour": 19,
+      "avgScore": 49,
+      "avgComments": 34,
+      "postCount": 1,
+      "engagement": 1
+    },
+    {
+      "day": 5,
+      "hour": 20,
+      "avgScore": 525,
+      "avgComments": 107,
+      "postCount": 1,
+      "engagement": 8
+    },
+    {
+      "day": 5,
+      "hour": 21,
+      "avgScore": 234,
+      "avgComments": 201,
+      "postCount": 5,
+      "engagement": 7
+    },
+    {
+      "day": 5,
+      "hour": 22,
+      "avgScore": 139,
+      "avgComments": 102,
+      "postCount": 4,
+      "engagement": 4
+    },
+    {
+      "day": 5,
+      "hour": 23,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 6,
+      "hour": 0,
+      "avgScore": 51,
+      "avgComments": 82,
+      "postCount": 1,
+      "engagement": 2
+    },
+    {
+      "day": 6,
+      "hour": 1,
+      "avgScore": 85,
+      "avgComments": 58,
+      "postCount": 1,
+      "engagement": 2
+    },
+    {
+      "day": 6,
+      "hour": 2,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 6,
+      "hour": 3,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 6,
+      "hour": 4,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 6,
+      "hour": 5,
+      "avgScore": 597,
+      "avgComments": 52,
+      "postCount": 1,
+      "engagement": 8
+    },
+    {
+      "day": 6,
+      "hour": 6,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 6,
+      "hour": 7,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 6,
+      "hour": 8,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 6,
+      "hour": 9,
+      "avgScore": 97,
+      "avgComments": 88,
+      "postCount": 1,
+      "engagement": 3
+    },
+    {
+      "day": 6,
+      "hour": 10,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 6,
+      "hour": 11,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 6,
+      "hour": 12,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 6,
+      "hour": 13,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 6,
+      "hour": 14,
+      "avgScore": 111,
+      "avgComments": 44,
+      "postCount": 2,
+      "engagement": 2
+    },
+    {
+      "day": 6,
+      "hour": 15,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 6,
+      "hour": 16,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 6,
+      "hour": 17,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 6,
+      "hour": 18,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 6,
+      "hour": 19,
+      "avgScore": 114,
+      "avgComments": 87,
+      "postCount": 1,
+      "engagement": 3
+    },
+    {
+      "day": 6,
+      "hour": 20,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 6,
+      "hour": 21,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 6,
+      "hour": 22,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    },
+    {
+      "day": 6,
+      "hour": 23,
+      "avgScore": 0,
+      "avgComments": 0,
+      "postCount": 0,
+      "engagement": 0
+    }
+  ],
+  "note": "day 0 = Sunday, hour is UTC"
+}
